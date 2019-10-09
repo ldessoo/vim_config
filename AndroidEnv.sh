@@ -27,6 +27,8 @@ sudo apt install m4 -y
 sudo apt install python -y
 sudo apt install python-pip -y
 sudo apt install python3-pip -y
+sudo apt install ctags -y
+sudo apt install cscope -y
 
 #pip install pyserial
 #pip3 install pyserial
