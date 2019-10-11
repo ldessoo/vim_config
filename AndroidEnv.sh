@@ -39,7 +39,8 @@ git config --global core.editor vim
 #配置git 用户名和邮箱
 git config --global user.name "gaoyuan"
 git config --global user.email "gaoyuan@sis.sh.cn"
-
+git config --global alias.st status
+git config --global unalias.br branch
 #查看配置好的git
 git config -l
 
